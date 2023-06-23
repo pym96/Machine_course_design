@@ -32,15 +32,16 @@ where ⟶E⟶E denotes a policy *evaluation*, and ⟶I⟶I denotes a policy impr
 
 1. **Initialization**
 
-   ![image-20230623190519549](C:\Users\pym66\AppData\Roaming\Typora\typora-user-images\image-20230623190519549.png)
+![image](https://github.com/pym96/Machine_course_design/assets/105438207/a13def5f-00eb-4ea7-80de-2e3918d79fd4)
 
 2. **Policy Evaluation**
 
-   ![image-20230623190510757](C:\Users\pym66\AppData\Roaming\Typora\typora-user-images\image-20230623190510757.png)
+![image](https://github.com/pym96/Machine_course_design/assets/105438207/32142b42-9250-4a17-9e03-5b761d34a574)
 
 3. **Policy Improvement**
 
-   ![image-20230623190533600](C:\Users\pym66\AppData\Roaming\Typora\typora-user-images\image-20230623190533600.png)
+![image](https://github.com/pym96/Machine_course_design/assets/105438207/f5414b7e-cf5c-4392-b99c-5e6fdae63c83)
+
 
 ## Reinforcement Learning
 
