@@ -47,15 +47,13 @@ where ⟶E⟶E denotes a policy *evaluation*, and ⟶I⟶I denotes a policy impr
 
 In reinforcement learning, the agent aims to maixmize its cumulative reward:
 
-$$
-\max \sum_{t=1}^T \mathbb{E}_{a_t \sim \pi(s_t), s_{t+1} \sim p(s_{t+1} \mid s_t, a_t), s_t \sim p(s)}[ \gamma^{t-1} r(s_t,a_t)].
-$$
+![image](https://github.com/pym96/Machine_course_design/assets/105438207/114ab667-ade0-449a-a177-7bae612e152a)
+
 
 From the perspective of Bellman equation, the caculation of cumulative reward can be also formulated as:
 
-$$
-V(s_t) = \mathbb{E}_{a \sim \pi(s_t)}[r(s_t,a_t) + \gamma V(s_{t+1})].
-$$
+![image](https://github.com/pym96/Machine_course_design/assets/105438207/6e082419-a3fb-48de-96a5-0b158f34f37c)
+
 
 ## Policy Iteration Learning
 
